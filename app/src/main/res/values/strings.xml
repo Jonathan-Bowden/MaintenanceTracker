@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Maintenance Tracker</string>
+    <string name="save">Save</string>
+    <string name="part">Vehicle Component</string>
+    <string name="notes">Notes:</string>
+    <string name="day">Date of update:</string>
+    <string name="day2">Date of next update:</string>
+    <string name="update">yyyy-mm-dd</string>
+    <string name="parthint">Name</string>
+    <string name="dayhint">Day</string>
+    <string name="notehint">Put any comments in here.</string>
+    <string name="delete">Cancel</string>
+    <string name="car">Press the plus to make a record.</string>
+    <string name="newtext">Tap to edit or hold to delete entry.</string>
+
+</resources>

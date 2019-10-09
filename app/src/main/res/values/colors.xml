@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#df1e2b</color>
+    <color name="colorPrimaryDark">#ca1a26</color>
+    <color name="colorAccent">@android:color/holo_green_dark</color>
+    <color name="colorPrimaryNark">#efebeb</color>
+    <color name="back">#000000</color>
+    <color name="redly">#ffcaca</color>
+    <color name="redlier">#ff9797</color>
+    <color name="whitely">#ffffff</color>
+</resources>
